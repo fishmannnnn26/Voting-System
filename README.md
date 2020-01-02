@@ -1,7 +1,7 @@
 # Voting System
 <p> This is my CSCI5801 (Software Engineering) Fall 2019 Project at the University of Minnesota - Twin Cities. </p>
 
-<p> The purpose of this project is to develop a voting system software that allows an election official to run two different types of elections (Closed Party Listing and Open Party Listing). The overall project was being construct with Agile Scrum software development cycle within a 4-week sprint. </p>
+<p> The purpose of this project is to develop a voting system software that allows an election official to run two different types of elections (Closed Party Listing and Open Party Listing). The overall project was being construct with Agile Scrum software development cycle within a 4-week sprint. This project also includes the sprint and the product backlog for more clarification on the software requirements. </p>
   
 ## How it Works
 <p> To use this voting system, simply run the VotingSystem.java file under /src. </p> 
