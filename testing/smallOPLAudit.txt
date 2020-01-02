@@ -1,0 +1,57 @@
+Party count: 4
+Parties: D,R,C,I
+Seat Count: 5
+Ballot Count: 40
+Candidate Count: 10
+
+Candidates:
+Pike, D
+Foster, D
+Deutsch, R
+Borg, R
+Jones, R
+Dennos, C
+Ann, C
+Lou, R
+Jim, R
+Cat, I
+,1,,,,,,,,  (Foster)
+,,1,,,,,,,  (Deutsch)
+,,,,,,,,,1  (Cat)
+1,,,,,,,,,  (Pike)
+1,,,,,,,,,  (Pike)
+,,,,,,1,,,  (Ann)
+,,,,,,,,,1  (Cat)
+,,,,,,1,,,  (Ann)
+1,,,,,,,,,  (Pike)
+,,1,,,,,,,  (Deutsch)
+,,,,,,,,,1  (Cat)
+,,,,,,1,,,  (Ann)
+,1,,,,,,,,  (Foster)
+,,,,,,,,,1  (Cat)
+,,,,,,,,,1  (Cat)
+,,,,,,1,,,  (Ann)
+,,,,,,1,,,  (Ann)
+,,1,,,,,,,  (Deutsch)
+1,,,,,,,,,  (Pike)
+1,,,,,,,,,  (Pike)
+,,1,,,,,,,  (Deutsch)
+,,1,,,,,,,  (Deutsch)
+,,1,,,,,,,  (Deutsch)
+,1,,,,,,,,  (Foster)
+,,1,,,,,,,  (Deutsch)
+,,1,,,,,,,  (Deutsch)
+1,,,,,,,,,  (Pike)
+,,1,,,,,,,  (Deutsch)
+1,,,,,,,,,  (Pike)
+,1,,,,,,,,  (Foster)
+,,1,,,,,,,  (Deutsch)
+1,,,,,,,,,  (Pike)
+,,1,,,,,,,  (Deutsch)
+,,,,,,1,,,  (Ann)
+,1,,,,,,,,  (Foster)
+,1,,,,,,,,  (Foster)
+1,,,,,,,,,  (Pike)
+,1,,,,,,,,  (Foster)
+,1,,,,,,,,  (Foster)
+,,,,,,1,,,  (Ann)

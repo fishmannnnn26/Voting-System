@@ -1,0 +1,25 @@
+----- candidate order -----
+party_R (votes: 15): candidate_D
+party_R (votes: 14): candidate_J
+party_R (votes: 10): candidate_H
+party_R (votes: 8): candidate_A
+
+party_D (votes: 11): candidate_G
+party_D (votes: 11): candidate_E
+party_D (votes: 10): candidate_F
+party_D (votes: 9): candidate_B
+party_D (votes: 8): candidate_I
+party_D (votes: 4): candidate_C
+
+----- vote totals -----
+party_D: 53
+party_R: 47
+
+----- seat allocation info -----
+votes: 100
+seats: 15
+votes needed for 1 seat: 6
+
+----- seats won -----
+party_D: 8
+party_R: 7

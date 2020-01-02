@@ -1,0 +1,17 @@
+Party count: 4
+Parties: D,R,C,I
+Seat Count: 5
+Ballot Count: 40
+Candidate Count: 10
+
+Candidates:
+Pike, D
+Foster, D
+Deutsch, R
+Borg, R
+Jones, R
+Dennos, C
+Ann, C
+Lou, R
+Jim, R
+Cat, I

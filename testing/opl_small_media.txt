@@ -1,0 +1,23 @@
+Ballot Count: 40
+Seat Count: 5
+
+Candidates: 
+R: [Foster]
+D: [Pike]
+G: [Deutsch]
+I: [Jones]
+
+Seats first round:
+Party: R, Seats: 1
+Party: D, Seats: 2
+Party: G, Seats: 1
+Party: I, Seats: 0
+
+Seats second round:
+Party: I, Seats: 1
+
+Placements:
+Party: R, placed candidates: [Foster]
+Party: D, placed candidates: [Pike]
+Party: G, placed candidates: [Deutsch]
+Party: I, placed candidates: [Jones]

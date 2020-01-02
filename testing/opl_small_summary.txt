@@ -1,0 +1,20 @@
+Ballot Count: 40
+Seat Count: 5
+
+Candidates: 
+R: [Deutsch]
+C: [Ann]
+D: [Pike, Foster]
+I: [Cat]
+
+Seats:
+Party: R, Seats: 1
+Party: C, Seats: 2
+Party: D, Seats: 2
+Party: I, Seats: 0
+
+Placements:
+Party: R, placed candidates: [Deutsch]
+Party: C, placed candidates: [Ann]
+Party: D, placed candidates: [Pike, Foster]
+Party: I, placed candidates: []

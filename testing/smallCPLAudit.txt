@@ -1,0 +1,57 @@
+Party count: 5
+Parties: D,R,G,B,I
+Seat Count: 5
+Ballot Count: 40
+Candidate Count: 10
+
+Candidates:
+Pike, D, 1
+Foster, R, 1
+Deutsch, G, 1
+Borg, B, 1
+Jones, I, 1
+Dilbert, D, 2
+Joane, R, 2
+Lewis, G, 2
+Dennis, B, 2
+Sue, I, 2
+,1,,,  (Foster)
+1,,,,  (Pike)
+,1,,,  (Foster)
+,1,,,  (Foster)
+1,,,,  (Pike)
+,,,,1  (Jones)
+,,1,,  (Deutsch)
+1,,,,  (Pike)
+1,,,,  (Pike)
+1,,,,  (Pike)
+1,,,,  (Pike)
+1,,,,  (Pike)
+1,,,,  (Pike)
+1,,,,  (Pike)
+1,,,,  (Pike)
+,,,,1  (Jones)
+,1,,,  (Foster)
+,1,,,  (Foster)
+1,,,,  (Pike)
+1,,,,  (Pike)
+,,1,,  (Deutsch)
+,,1,,  (Deutsch)
+,1,,,  (Foster)
+,,1,,  (Deutsch)
+,,1,,  (Deutsch)
+1,,,,  (Pike)
+,,,,1  (Jones)
+,,1,,  (Deutsch)
+,,,,1  (Jones)
+,1,,,  (Foster)
+1,,,,  (Pike)
+,,1,,  (Deutsch)
+,,,,1  (Jones)
+,1,,,  (Foster)
+1,,,,  (Pike)
+,,1,,  (Deutsch)
+,1,,,  (Foster)
+1,,,,  (Pike)
+1,,,,  (Pike)
+,1,,,  (Foster)

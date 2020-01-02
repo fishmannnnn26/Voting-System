@@ -1,0 +1,34 @@
+----- candidate order -----
+party_B rank 1: candidate_B (50056)
+party_B rank 2: candidate_D (50419)
+party_B rank 3: candidate_E (49693)
+party_B rank 4: candidate_J (50000)
+
+party_D rank 1: candidate_A (49921)
+party_D rank 2: candidate_F (50169)
+
+party_G rank 1: candidate_C (49756)
+party_G rank 2: candidate_G (50224)
+
+party_I rank 1: candidate_I (49885)
+
+party_R rank 1: candidate_H (49877)
+
+----- vote totals -----
+party_B: 200168
+party_D: 100090
+party_G: 99980
+party_I: 49885
+party_R: 49877
+
+----- seat allocation info -----
+votes: 500000
+seats: 15
+votes needed for 1 seat: 33333
+
+----- seats won -----
+party_B: 6
+party_D: 3
+party_G: 3
+party_I: 2
+party_R: 1
